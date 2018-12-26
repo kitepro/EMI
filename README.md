@@ -3,7 +3,7 @@ Calculate your EMI easily :D
 
 <img src="https://github.com/kitepro/EMI/blob/master/README/1.png"><br>
 
-Was exciting to use Pascal's Triangle in an application :D <br><br>
+It was exciting to use Pascal's Triangle in an application :D <br><br>
 
 <img src="https://github.com/kitepro/EMI/blob/master/README/2.jpeg"><br>
 Here T<sub>k</sub><sup>n</sup> is k<sup>th</sup> element in n<sup>th</sup> row of Pascal's Triangle...<br>
